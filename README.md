@@ -7,6 +7,8 @@ The demo features checkboxes, sliders and buttons to manipulate a rounded box, a
 
 This project uses CMake as a build system. To generate solution and project files for Visual Studio or other development environents open the project folder in the command line:
 
+```
 mkdir build
 cd build
 cmake ../
+```
